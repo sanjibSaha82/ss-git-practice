@@ -1,4 +1,4 @@
-﻿Application initakized
+Application initakized
 Improve application header styling
 Add footer section to Application
-
+Enhance search functionality with filters
